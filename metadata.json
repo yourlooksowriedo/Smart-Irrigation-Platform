@@ -1,0 +1,7 @@
+{
+  "name": "AgriFlow - Smart Land & Water Manager",
+  "description": "An advanced agricultural tool for measuring land area via GPS, calculating precise water requirements, and managing automated irrigation systems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
